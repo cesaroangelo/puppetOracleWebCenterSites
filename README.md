@@ -10,7 +10,7 @@ This module require a RPM-based Linux distributions.
 
 License
 -------
-GPLv2
+GPLv3
 
 Author Information
 ------------------
